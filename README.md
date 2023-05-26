@@ -4,3 +4,6 @@ Repo contains code  that i have written to learn PyTorch Library and its impleme
 
 
 1. [Basic_Tensor_Operations](https://github.com/taizun-jj202/PyTorch_Basics/tree/main/Basic_Tensor_Operations)
+2. MNIST_CNN.py
+3. MNIST_LinearNN.ipynb
+4. FashionMNIST.ipynb
